@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GauravSrivastava-prog
-- 👀 I’m interested in Cloud Computing, Cyber Security, Web Devlopement
+- 👀 I’m interested in Cloud Computing, Cyber Security, full stack with AI
 - 🌱 I have learned C, Problem Solving, Linux and currently i am learning Computer Organization and Architecture (COA) , Digital Electronics (DE), Data Structures and Algorithm (DSA) and Python at UPES Dehradun.
 - 📫 How to reach me ... email - Gaurav.122467@stu.upes.ac.in
 
